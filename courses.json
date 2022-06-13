@@ -1,0 +1,83 @@
+[{
+  "_id": {
+    "$oid": "61187ea54989e80008d19b4f"
+  },
+  "tags": [
+    "node",
+    "Frontend"
+  ],
+  "date": {
+    "$date": "2021-08-15T02:40:37.722Z"
+  },
+  "Price": "10$",
+  "name": "HTML Course",
+  "author": "Mosh",
+  "isPublished": true,
+  "__v": 0
+},{
+
+  "_id": {
+    "$oid": "61187ea54989e80008d19b4b"
+  },
+  "tags": [
+    "node",
+    "Frontend"
+  ],
+  "date": {
+    "$date": "2021-08-15T02:40:37.722Z"
+  },
+  "Price": "15$",
+  "name": "CSS Course",
+  "author": "Mosh",
+  "isPublished": true,
+  "__v": 0
+},{
+
+  "_id": {
+    "$oid": "61187ea54989e80008d19b4c"
+  },
+  "tags": [
+    "node",
+    "backend"
+  ],
+  "date": {
+    "$date": "2021-08-15T02:40:37.722Z"
+  },
+  "Price": "20$",
+  "name": "Node.js Course",
+  "author": "Mosh",
+  "isPublished": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61187ffad0a22e22c4bc9465"
+  },
+  "tags": [
+    "angular",
+    "backend"
+  ],
+  "date": {
+    "$date": "2021-08-15T02:46:18.574Z"
+  },
+  "Price": "25$",
+  "name": "angular.js Course",
+  "author": "Mosh",
+  "isPublished": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6118b45d3b40131f0ce89a92"
+  },
+  "tags": [
+    "React",
+    "backend"
+  ],
+  "date": {
+    "$date": "2021-08-15T06:29:49.051Z"
+  },
+  "Price": "30$",
+  "name": "React.js Course",
+  "author": "Mosh",
+  "isPublished": true,
+  "__v": 0
+}]

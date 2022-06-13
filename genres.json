@@ -1,0 +1,83 @@
+[{
+  "_id": {
+    "$oid": "61187ea54989e80008d19b4f"
+  },
+  "tags": [
+    "romantic",
+    "horror"
+  ],
+  "date": {
+    "$date": "2021-08-15T02:40:37.722Z"
+  },
+  "Price": "10$",
+  "name": "DDLJ",
+  "author": "YRF",
+  "isPublished": true,
+  "__v": 0
+},{
+
+  "_id": {
+    "$oid": "61187ea54989e80008d19b4b"
+  },
+  "tags": [
+    "srk",
+    "romantic"
+  ],
+  "date": {
+    "$date": "2021-08-15T02:40:37.722Z"
+  },
+  "Price": "15$",
+  "name": "roxtar",
+  "author": "amant ali",
+  "isPublished": true,
+  "__v": 0
+},{
+
+  "_id": {
+    "$oid": "61187ea54989e80008d19b4c"
+  },
+  "tags": [
+    "salman",
+    "action"
+  ],
+  "date": {
+    "$date": "2021-08-15T02:40:37.722Z"
+  },
+  "Price": "20$",
+  "name": "wanted",
+  "author": "arbas",
+  "isPublished": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61187ffad0a22e22c4bc9465"
+  },
+  "tags": [
+    "aksahy",
+    "rustam"
+  ],
+  "date": {
+    "$date": "2021-08-15T02:46:18.574Z"
+  },
+  "Price": "25$",
+  "name": "rustam",
+  "author": "unkn",
+  "isPublished": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6118b45d3b40131f0ce89a92"
+  },
+  "tags": [
+    "ranveer",
+    "bajirao"
+  ],
+  "date": {
+    "$date": "2021-08-15T06:29:49.051Z"
+  },
+  "Price": "30$",
+  "name": "Bajirao mastani",
+  "author": "bansali",
+  "isPublished": true,
+  "__v": 0
+}]
